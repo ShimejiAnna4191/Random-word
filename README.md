@@ -1,7 +1,7 @@
 # Random-work
 a word guessing game on CLI app
 
-# stats
+# Stats
 
 * Language: C++
 * Compiler: gcc, clang
