@@ -5,11 +5,13 @@
 
 namespace Settings
 {
+    // you can chane number of guess here
     constexpr int wrongGuessesAllowed { 6 };
 }
 
 namespace WordList
 {
+    //these are the word lists that you will guess, you can add your own words if you want to play with friends
     std::vector<std::string_view> words { "mystery", "broccoli" , "account", "almost", "spaghetti", "opinion", "beautiful", "distance", "luggage", "ivan", "shimejianna", "piro", "hutao", "yoimiya" };
 
     std::string_view getRandomWord()
