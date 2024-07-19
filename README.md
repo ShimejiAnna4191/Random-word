@@ -33,7 +33,7 @@ If you use vscode then you need to download [gcc](https://code.visualstudio.com/
 
 If you use a Vim environment like Vi, Vim or Neovim then just follow the **setup**, make sure you have navigated correctly and have gcc in clang
 
-In case of linux you can do the same as Windows if you download the `gtk` package and configure it
+In case of linux you can do the same as Windows if you download the [raphical user interface package](https://wiki.archlinux.org/title/GTK) and configure it
 
 # Stats
 
