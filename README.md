@@ -35,12 +35,3 @@ If you use a Vim environment like Vi, Vim or Neovim then just follow the **setup
 
 In case of linux you can do the same as Windows if you download the [raphical user interface package](https://wiki.archlinux.org/title/GTK) and configure it
 
-# Stats
-
-* Language: C++
-* Compiler: gcc, clang
-* Difficulty: normal (mainly the documentation is too much, btw the code logic is not too difficult)
-* Time to do project: 7h32p
-* Documentation: learncpp, cppreference
-* GPT or AI help: no
-* Refer to code from elsewhere: yes
